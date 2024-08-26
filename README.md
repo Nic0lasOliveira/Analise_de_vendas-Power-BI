@@ -1,2 +1,2 @@
-# Analise_de_vendas-Power-BI
-Projeto Básico do curso de Power BI sobre análise de vendas.
+<h2 align = "center">Projeto 1 Power BI</h2>
+<img src="./Desktop/projeto 1.jpeg">
